@@ -31,3 +31,13 @@ Helping Hand is an **AI-powered bionic arm** that combines **speech recognition 
 - **Customizable User Preferences:** Allowing users to fine-tune grip strength and response settings.  
 - **Wireless and Wearable Design:** Exploring ways to make the arm **lighter, more comfortable, and fully wireless**.  
 - **Integration with Smart Home Devices:** Enabling Helping Hand to interact with **voice assistants and home automation systems**.  
+
+### Images
+
+![Fingures](./ss/fingures.png)
+![Standing on its own](./ss/arm.png)
+![Complex Wiring](./ss/wiring.png)
+
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/ENsZE5dSVT8/hqdefault.jpg)](https://www.youtube.com/watch?v=ENsZE5dSVT8)
